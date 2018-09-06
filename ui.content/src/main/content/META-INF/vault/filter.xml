@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/AEMMaven14"/>
+    <filter root="/content/AEMMaven14"/>
+    <filter root="/content/dam/AEMMaven14"/>
+</workspaceFilter>
